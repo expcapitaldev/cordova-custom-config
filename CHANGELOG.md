@@ -1,5 +1,9 @@
 # CHANGELOG
 
+**v5.1.1**
+* Pin `colors` to `1.4.0`.
+    * Resolves [#173](https://github.com/dpa99c/cordova-custom-config/issues/173).
+
 **5.1.0-dev-1.0**
 * Fix iOS xcodeProject
 * every plugin can change project.pbxproj file,
