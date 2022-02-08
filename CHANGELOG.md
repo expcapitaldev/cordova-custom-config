@@ -1,5 +1,8 @@
 # CHANGELOG
 
+**5.1.1-dev-1.0**
+* empty release with updated version
+
 **v5.1.1**
 * Pin `colors` to `1.4.0`.
     * Resolves [#173](https://github.com/dpa99c/cordova-custom-config/issues/173).
